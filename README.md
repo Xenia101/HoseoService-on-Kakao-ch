@@ -1,11 +1,11 @@
 # HoseoService on Kakao Ch
 
 <p align=center float="left">
-  <img width="300" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/20180511.jpg?raw=true">
+  <img width="450" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/20180511.jpg?raw=true">
   <img width="300" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/20190326.png?raw=true">
 </p>
 
-카카오채널 챗봇 [HoseoService](http://pf.kakao.com/_xmxedxaC)
+<strong>카카오채널 챗봇 [HoseoService](http://pf.kakao.com/_xmxedxaC)</strong>
 
 > Kakao Ch API형 챗봇 종료안내
 >  - 2018년 12월 3일부터는 API형 스마트채팅 신규 생성이 불가능하며, 기존에 등록된 앱정보만 수정할 수 있습니다.
