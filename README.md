@@ -9,7 +9,7 @@
 
 ---
 
-Kakao Ch API형 챗봇 종료안내 :exclamation:
+:exclamation: Kakao Ch API형 챗봇 종료안내 :exclamation:
  - 2018년 12월 3일부터는 API형 스마트채팅 신규 생성이 불가능하며, 기존에 등록된 앱정보만 수정할 수 있습니다.
  - 2019년 12월 31일 이후에는 kakao i Open Builder에서 제공하는 챗봇을 사용해 주셔야 합니다.
 
