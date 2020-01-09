@@ -1,8 +1,9 @@
 # HoseoService on Kakao Ch
 
 <p align=center float="left">
-  <img width="450" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/20180511.jpg?raw=true">
-  <img width="300" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/20190326.png?raw=true">
+  <img width="250" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/20180511.jpg?raw=true">
+  <img width="167" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/20190326.png?raw=true">
+  <img width="250" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/logo2020.png?raw=true">
 </p>
 
 <strong>파이썬으로 구현한 카카오채널 챗봇 (Django + Flask) [HoseoService](http://pf.kakao.com/_xmxedxaC)</strong>
