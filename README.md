@@ -8,6 +8,8 @@
 
 <strong>파이썬으로 구현한 카카오채널 챗봇 (Django + Flask) [HoseoService](http://pf.kakao.com/_xmxedxaC)</strong>
 
+2020-01-12 : Python based service -> Starting on node.js based service
+
 ---
 
 :exclamation: Kakao Ch API형 챗봇 종료안내 :exclamation:
