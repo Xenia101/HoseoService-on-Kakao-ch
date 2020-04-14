@@ -96,5 +96,5 @@
 [HoseoService](http://pf.kakao.com/_xmxedxaC) 에서 친구추가 후 사용
 
 <p align=center>
-  <img width="400" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/img/main.PNG?raw=true">
+  <img height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/img/main.PNG?raw=true">
 </p>
