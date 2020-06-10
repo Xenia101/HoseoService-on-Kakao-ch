@@ -6,9 +6,9 @@
   <img width="250" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/logo2020.png?raw=true">
 </p>
 
-<strong>파이썬으로 구현한 카카오채널 챗봇 [HoseoService](http://pf.kakao.com/_xmxedxaC)</strong>
+<strong>카카오채널 챗봇 [HoseoService](http://pf.kakao.com/_xmxedxaC)</strong>
 
-**Server Info / History**
+- **Server Info / History**
 
 | Date              	| Server         	|
 |-------------------	|----------------	|
