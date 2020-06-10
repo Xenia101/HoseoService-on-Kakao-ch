@@ -6,7 +6,17 @@
   <img width="250" height="auto" src="https://github.com/Xenia101/HoseoService-on-Kakao-ch/blob/master/logo2020.png?raw=true">
 </p>
 
-<strong>파이썬으로 구현한 카카오채널 챗봇 (Django + Flask) [HoseoService](http://pf.kakao.com/_xmxedxaC)</strong>
+<strong>파이썬으로 구현한 카카오채널 챗봇 [HoseoService](http://pf.kakao.com/_xmxedxaC)</strong>
+
+**Server Info / History**
+
+| Date              	| Server         	|
+|-------------------	|----------------	|
+| 2018.5 ~ 2018.8   	| Django         	|
+| 2018.8 ~ 2020.01  	| Django + Flask 	|
+| 2020.01 ~ 2020.07 	| node.js        	|
+| 2020.07 (예정)    	| Go             	|
+
 
 2020-01-12 : Python based service -> Starting on node.js based service
 
