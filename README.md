@@ -18,7 +18,7 @@
 | 2020.07 (예정)    	| Go             	|
 
 
-2020-01-12 : Python based service -> Starting on node.js based service
+2020-01-12 : **Python** based service -> Starting on **node.js** based service
 
 ---
 
